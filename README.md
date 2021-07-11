@@ -14,6 +14,7 @@ Step 3: Open browser and open the swagger link 'http://localhost:8080/swagger-ui
 API's 
 1:Definition of a line by means of two points
 API GET /v1/definition-of-line-by-two-points/{x1}/{y1}/{x2}/{y2}
+
 ![Capture1](https://user-images.githubusercontent.com/17667479/125191644-1cee0c80-e261-11eb-959e-4edd8197f7ed.PNG)
 
 
